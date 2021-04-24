@@ -13,4 +13,4 @@ CAD libraries to use uPesy ESP32 DevKit boards in your favorite pcb design softw
 ### Fritzing
 <img src="https://github.com/uPesy/esp32_boards_lib/blob/main/uPesy%20ESP32%20Wrover%20DevKit%20v2/Fritzing/img/demo.PNG" width="400">
 
-**Download [here](https://github.com/uPesy/esp32_boards_lib/blob/main/uPesy%20ESP32%20Wrover%20DevKit%20v2/Fritzing/uPesy%20ESP32%20Wrover%20DevKit%20v2.fzpz) !**
+**Download [here](https://github.com/uPesy/esp32_boards_lib/raw/main/uPesy%20ESP32%20Wrover%20DevKit%20v2/Fritzing/uPesy%20ESP32%20Wrover%20DevKit%20v2.fzpz) !**
