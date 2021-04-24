@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="126.51615"
+   height="153.95006"
+   viewBox="0 0 101.21292 123.16004"
+   id="svg3223"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="upesy_esp32_wrover_devkit_v2_schema.svg">
+  <metadata
+     id="metadata3459">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3457" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview3455"
+     showgrid="true"
+     inkscape:zoom="2.3939955"
+     inkscape:cx="85.058089"
+     inkscape:cy="80.932755"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3461"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="9px"
+       spacingy="9px"
+       originx="0.060289322px"
+       originy="0.47670046px" />
+  </sodipodi:namedview>
+  <g
+     partID="59360"
+     id="g3225"
+     transform="translate(0.04823114,0.37868338)">
+    <g
+       id="schematic">
+      <rect
+         height="121.5"
+         x="14.4"
+         width="72"
+         y="0.44999999"
+         id="rect3228"
+         style="fill:none;stroke:#000000;stroke-width:1.66055608;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         font-size="3.5"
+         id="label"
+         x="50.400002"
+         y="57.599998"
+         style="font-size:3.5px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans">
+        <tspan
+           style="font-size:4px"
+           id="tspan3463">uPesy ESP32</tspan>
+        <tspan
+           style="font-size:4px"
+           id="tspan3275" />
+      </text>
+      <text
+         font-size="3.5"
+         x="50.400002"
+         y="62.56216"
+         style="font-size:3.5px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans"
+         id="text3271">
+        <tspan
+           style="font-size:4px"
+           id="tspan3273">Wrover DevKit</tspan>
+      </text>
+      <line
+         y1="7.1999998"
+         y2="7.1999998"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3231"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector0pin"
+         connectorName="1"
+         x="0"
+         width="14.4"
+         y="6.8499999"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector0terminal"
+         x="0"
+         width="0"
+         y="6.85"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label0"
+         x="15.8"
+         y="7.8999801"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">EN</text>
+      <line
+         y1="14.4"
+         y2="14.4"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3238"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector1pin"
+         connectorName="2"
+         x="0"
+         width="14.4"
+         y="14.05"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector1terminal"
+         x="0"
+         width="0"
+         y="14.05"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label1"
+         x="15.8"
+         y="15.1"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO36</text>
+      <line
+         y1="21.6"
+         y2="21.6"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3245"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector2pin"
+         connectorName="3"
+         x="0"
+         width="14.4"
+         y="21.25"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector2terminal"
+         x="0"
+         width="0"
+         y="21.25"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label2"
+         x="15.8"
+         y="22.299999"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO39</text>
+      <line
+         y1="28.799999"
+         y2="28.799999"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3252"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector3pin"
+         connectorName="4"
+         x="0"
+         width="14.4"
+         y="28.450001"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector3terminal"
+         x="0"
+         width="0"
+         y="28.45"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label3"
+         x="15.8"
+         y="29.5"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO34</text>
+      <line
+         y1="36"
+         y2="36"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3259"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector4pin"
+         connectorName="5"
+         x="0"
+         width="14.4"
+         y="35.650002"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector4terminal"
+         x="0"
+         width="0"
+         y="35.65"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label4"
+         x="15.8"
+         y="36.700001"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO35</text>
+      <line
+         y1="43.200001"
+         y2="43.200001"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3266"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector5pin"
+         connectorName="6"
+         x="0"
+         width="14.4"
+         y="42.849998"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector5terminal"
+         x="0"
+         width="0"
+         y="42.85"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label5"
+         x="15.8"
+         y="43.900002"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO32</text>
+      <line
+         y1="50.400002"
+         y2="50.400002"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3273"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector6pin"
+         connectorName="7"
+         x="0"
+         width="14.4"
+         y="50.049999"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector6terminal"
+         x="0"
+         width="0"
+         y="50.05"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label6"
+         x="15.8"
+         y="51.099998"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO33</text>
+      <line
+         y1="57.599998"
+         y2="57.599998"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3280"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector7pin"
+         connectorName="8"
+         x="0"
+         width="14.4"
+         y="57.25"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector7terminal"
+         x="0"
+         width="0"
+         y="57.25"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label7"
+         x="15.8"
+         y="58.299999"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO25</text>
+      <line
+         y1="64.800003"
+         y2="64.800003"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3287"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector8pin"
+         connectorName="9"
+         x="0"
+         width="14.4"
+         y="64.449997"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector8terminal"
+         x="0"
+         width="0"
+         y="64.45"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label8"
+         x="15.8"
+         y="65.5"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO26</text>
+      <line
+         y1="72"
+         y2="72"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3294"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector9pin"
+         connectorName="10"
+         x="0"
+         width="14.4"
+         y="71.650002"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector9terminal"
+         x="0"
+         width="0"
+         y="71.65"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label9"
+         x="15.8"
+         y="72.699799"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO27</text>
+      <line
+         y1="79.199997"
+         y2="79.199997"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3301"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector10pin"
+         connectorName="11"
+         x="0"
+         width="14.4"
+         y="78.850098"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector10terminal"
+         x="0"
+         width="0"
+         y="78.8501"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label10"
+         x="15.8"
+         y="79.899803"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO14</text>
+      <line
+         y1="86.400002"
+         y2="86.400002"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3308"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector11pin"
+         connectorName="12"
+         x="0"
+         width="14.4"
+         y="86.050102"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector11terminal"
+         x="0"
+         width="0"
+         y="86.0501"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label11"
+         x="15.8"
+         y="87.0998"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO12</text>
+      <line
+         y1="93.599998"
+         y2="93.599998"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3315"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector12pin"
+         connectorName="13"
+         x="0"
+         width="14.4"
+         y="93.250099"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector12terminal"
+         x="0"
+         width="0"
+         y="93.2501"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label12"
+         x="15.8"
+         y="94.299797"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO13</text>
+      <line
+         y1="100.8"
+         y2="100.8"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3322"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector13pin"
+         connectorName="14"
+         x="0"
+         width="14.4"
+         y="100.45"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector13terminal"
+         x="0"
+         width="0"
+         y="100.45"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label13"
+         x="15.8"
+         y="101.5"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">VIN</text>
+      <line
+         y1="108"
+         y2="108"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3329"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector14pin"
+         connectorName="15"
+         x="0"
+         width="14.4"
+         y="107.65"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector14terminal"
+         x="0"
+         width="0"
+         y="107.65"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label14"
+         x="15.8"
+         y="108.7"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">+5V</text>
+      <line
+         y1="115.2"
+         y2="115.2"
+         x1="0.34999901"
+         x2="14.4"
+         id="line3336"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector15pin"
+         connectorName="16"
+         x="0"
+         width="14.4"
+         y="114.85"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector15terminal"
+         x="0"
+         width="0"
+         y="114.85"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label15"
+         x="15.8"
+         y="115.9"
+         style="font-size:3.5px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GND</text>
+      <line
+         y1="7.1999998"
+         y2="7.1999998"
+         x1="86.400002"
+         x2="100.8"
+         id="line3343"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector31pin"
+         x="86.75"
+         width="14.4"
+         y="6.849999"
+         connectorname="32"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector31terminal"
+         x="50.4"
+         width="0"
+         y="6.85"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label31"
+         x="85.349998"
+         y="7.8999796"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO23</text>
+      <line
+         y1="14.399999"
+         y2="14.399999"
+         x1="86.400002"
+         x2="100.8"
+         id="line3350"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector30pin"
+         x="86.75"
+         width="14.4"
+         y="14.049999"
+         connectorname="31"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector30terminal"
+         x="50.4"
+         width="0"
+         y="14.05"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label30"
+         x="85.349998"
+         y="15.099998"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO22</text>
+      <line
+         y1="21.6"
+         y2="21.6"
+         x1="86.400002"
+         x2="100.8"
+         id="line3357"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector29pin"
+         x="86.75"
+         width="14.4"
+         y="21.25"
+         connectorname="30"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector29terminal"
+         x="50.4"
+         width="0"
+         y="21.25"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label29"
+         x="85.349998"
+         y="22.299999"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">TX0</text>
+      <line
+         y1="28.799999"
+         y2="28.799999"
+         x1="86.400002"
+         x2="100.8"
+         id="line3364"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector28pin"
+         x="86.75"
+         width="14.4"
+         y="28.450001"
+         connectorname="29"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector28terminal"
+         x="50.4"
+         width="0"
+         y="28.45"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label28"
+         x="85.349998"
+         y="29.5"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">RX0</text>
+      <line
+         y1="36"
+         y2="36"
+         x1="86.400002"
+         x2="100.8"
+         id="line3371"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector27pin"
+         x="86.75"
+         width="14.4"
+         y="35.650002"
+         connectorname="28"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector27terminal"
+         x="50.4"
+         width="0"
+         y="35.65"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label27"
+         x="85.349998"
+         y="36.700001"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO21</text>
+      <line
+         y1="43.200001"
+         y2="43.200001"
+         x1="86.400002"
+         x2="100.8"
+         id="line3378"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector26pin"
+         x="86.75"
+         width="14.4"
+         y="42.849998"
+         connectorname="27"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector26terminal"
+         x="50.4"
+         width="0"
+         y="42.85"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label26"
+         x="85.349998"
+         y="43.900002"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO19</text>
+      <line
+         y1="50.400002"
+         y2="50.400002"
+         x1="86.400002"
+         x2="100.8"
+         id="line3385"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector25pin"
+         x="86.75"
+         width="14.4"
+         y="50.049999"
+         connectorname="26"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector25terminal"
+         x="50.4"
+         width="0"
+         y="50.05"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label25"
+         x="85.349998"
+         y="51.099998"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO18</text>
+      <line
+         y1="57.599998"
+         y2="57.599998"
+         x1="86.400002"
+         x2="100.8"
+         id="line3392"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector24pin"
+         x="86.75"
+         width="14.4"
+         y="57.25"
+         connectorname="25"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector24terminal"
+         x="50.4"
+         width="0"
+         y="57.25"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label24"
+         x="85.349998"
+         y="58.299999"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO5</text>
+      <rect
+         height="0.69999802"
+         id="connector23pin"
+         x="86.75"
+         width="14.4"
+         y="64.449997"
+         connectorname="24"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector23terminal"
+         x="50.4"
+         width="0"
+         y="64.45"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label23"
+         x="85.349998"
+         y="65.5"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">NC</text>
+      <rect
+         height="0.69999802"
+         id="connector22pin"
+         x="86.75"
+         width="14.4"
+         y="71.650002"
+         connectorname="23"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector22terminal"
+         x="50.4"
+         width="0"
+         y="71.65"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label22"
+         x="85.349998"
+         y="72.699799"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">NC</text>
+      <line
+         y1="79.199997"
+         y2="79.199997"
+         x1="86.400002"
+         x2="100.8"
+         id="line3413"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector21pin"
+         x="86.75"
+         width="14.4"
+         y="78.850098"
+         connectorname="22"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector21terminal"
+         x="50.4"
+         width="0"
+         y="78.8501"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label21"
+         x="85.349998"
+         y="79.899803"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO4</text>
+      <line
+         y1="86.400002"
+         y2="86.400002"
+         x1="86.400002"
+         x2="100.8"
+         id="line3420"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector20pin"
+         x="86.75"
+         width="14.4"
+         y="86.050102"
+         connectorname="21"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector20terminal"
+         x="50.4"
+         width="0"
+         y="86.0501"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label20"
+         x="85.349998"
+         y="87.0998"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO0</text>
+      <line
+         y1="93.599998"
+         y2="93.599998"
+         x1="86.400002"
+         x2="100.8"
+         id="line3427"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector19pin"
+         x="86.75"
+         width="14.4"
+         y="93.250099"
+         connectorname="20"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector19terminal"
+         x="50.4"
+         width="0"
+         y="93.2501"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label19"
+         x="85.349998"
+         y="94.299797"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO2</text>
+      <line
+         y1="100.80001"
+         y2="100.80001"
+         x1="86.400002"
+         x2="100.8"
+         id="line3434"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector18pin"
+         x="86.75"
+         width="14.4"
+         y="100.45"
+         connectorname="19"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector18terminal"
+         x="50.4"
+         width="0"
+         y="100.45"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label18"
+         x="85.349998"
+         y="101.5"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GPIO15</text>
+      <line
+         y1="108"
+         y2="108"
+         x1="86.400002"
+         x2="100.8"
+         id="line3441"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector17pin"
+         x="86.75"
+         width="14.4"
+         y="107.64998"
+         connectorname="18"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector17terminal"
+         x="50.4"
+         width="0"
+         y="107.65"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label17"
+         x="85.349998"
+         y="108.7"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">+3.3V</text>
+      <line
+         y1="115.2"
+         y2="115.2"
+         x1="86.400002"
+         x2="100.8"
+         id="line3448"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         height="0.69999802"
+         id="connector16pin"
+         x="86.75"
+         width="14.4"
+         y="114.85"
+         connectorname="17"
+         style="fill:none;stroke-width:0" />
+      <g
+         height="0.699998"
+         id="connector16terminal"
+         x="50.4"
+         width="0"
+         y="114.85"
+         style="fill:none;stroke-width:0" />
+      <text
+         font-size="3.5"
+         id="label16"
+         x="85.349998"
+         y="115.89998"
+         style="font-size:3.5px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GND</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 75.380504 180.60351"
+   width="94.225533"
+   height="225.62354"
+   xml:space="preserve"
+   id="svg3990"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="upesy_esp32_wrover_devkit_v2_pcb.svg"><metadata
+   id="metadata4202"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs4200"><linearGradient
+     y2="89.576401"
+     x2="195.5437"
+     y1="64.286201"
+     x1="195.5437"
+     gradientUnits="userSpaceOnUse"
+     id="linearGradient7106"
+     xlink:href="#SVGID_1_"
+     inkscape:collect="always" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview4198"
+   showgrid="true"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="3.1229832"
+   inkscape:cx="48.91125"
+   inkscape:cy="148.67248"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="silkscreen"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"><inkscape:grid
+     type="xygrid"
+     id="grid4204"
+     empspacing="5"
+     visible="true"
+     enabled="true"
+     snapvisiblegridlinesonly="true"
+     spacingx="5px"
+     spacingy="5px"
+     originx="2.0540688px"
+     originy="98.510369px" /><sodipodi:guide
+     orientation="1,0"
+     position="-2.9459312,183.51037"
+     id="guide3280" /><sodipodi:guide
+     orientation="0,1"
+     position="81.628775,0.4648629"
+     id="guide18715" /><sodipodi:guide
+     orientation="0,1"
+     position="-6.1090906,225.15871"
+     id="guide18717" /></sodipodi:namedview>
+<g
+   id="silkscreen"
+   transform="matrix(0.98845689,0,0,0.98845689,5.5801605,21.67341)">
+
+	
+
+	
+
+	
+<path
+   style="fill:none;stroke:#000000;stroke-width:0.80981177px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 17.849602,160.14645 0,-4.41166 29.137027,0 0,4.41166 z"
+   id="path8311"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:0.75285959px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 45.215768,160.40963 25.045342,0 0,-181.95971 -71.3562463,0.0055 0,0.0054 -4.1958343,0 0,181.94883 z"
+   id="path8313"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccccc" /><g
+   font-size="4"
+   id="g3997-6"
+   style="font-size:4px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans"
+   transform="matrix(2.1468164,0.02262908,-0.02262908,2.1468164,-137.97384,-50.656932)" /></g>
+
+<g
+   id="copper1"
+   transform="translate(1.6442082,21.475677)">
+	<g
+   id="copper0">
+		<g
+   transform="translate(0.2835,0)"
+   id="g4081">
+			<g
+   class="pads"
+   id="g4083">
+				<g
+   class="pads-left"
+   transform="translate(0,0.322)"
+   id="g4085">
+					<circle
+   id="connector0pad"
+   class="pad-rst"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="2.05"
+   d="m 5.6499999,3.5999999 c 0,1.1321837 -0.9178163,2.05 -2.05,2.05 C 2.4678162,5.6499999 1.55,4.7321836 1.55,3.5999999 1.55,2.4678162 2.4678162,1.55 3.5999999,1.55 c 1.1321837,0 2.05,0.9178162 2.05,2.0499999 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector1pad"
+   class="pad-a0"
+   cx="3.5999999"
+   cy="10.8"
+   r="2.05"
+   d="m 5.6499999,10.8 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,12.85 1.55,11.932184 1.55,10.8 c 0,-1.1321835 0.9178162,-2.0499998 2.0499999,-2.0499998 1.1321837,0 2.05,0.9178163 2.05,2.0499998 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector2pad"
+   class="pad-d0"
+   cx="3.5999999"
+   cy="18"
+   r="2.05"
+   d="m 5.6499999,18 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,20.05 1.55,19.132184 1.55,18 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector3pad"
+   class="pad-d5"
+   cx="3.5999999"
+   cy="25.200001"
+   r="2.05"
+   d="m 5.6499999,25.200001 c 0,1.132183 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917817 -2.0499999,-2.05 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector4pad"
+   class="pad-d6"
+   cx="3.5999999"
+   cy="32.400002"
+   r="2.05"
+   d="m 5.6499999,32.400002 c 0,1.132183 -0.9178163,2.049999 -2.05,2.049999 C 2.4678162,34.450001 1.55,33.532185 1.55,32.400002 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector5pad"
+   class="pad-d7"
+   cx="3.5999999"
+   cy="39.599998"
+   r="2.05"
+   d="m 5.6499999,39.599998 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.049999 2.0499999,-2.049999 1.1321837,0 2.05,0.917816 2.05,2.049999 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector6pad"
+   class="pad-d8"
+   cx="3.5999999"
+   cy="46.799999"
+   r="2.05"
+   d="m 5.6499999,46.799999 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917817 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector7pad"
+   class="pad-3v3"
+   cx="3.5999999"
+   cy="54"
+   r="2.05"
+   d="m 5.6499999,54 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,56.05 1.55,55.132184 1.55,54 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+				</g>
+				<g
+   class="pads-right"
+   transform="translate(64.8,0.2832611)"
+   id="g4095">
+					<circle
+   id="connector8pad"
+   class="pad-5v"
+   cx="3.5999999"
+   cy="54"
+   r="2.05"
+   d="m 5.6499999,54 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,56.05 1.55,55.132184 1.55,54 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector9pad"
+   class="pad-g"
+   cx="3.5999999"
+   cy="46.799999"
+   r="2.05"
+   d="m 5.6499999,46.799999 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917817 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector10pad"
+   class="pad-d4"
+   cx="3.5999999"
+   cy="39.599998"
+   r="2.05"
+   d="m 5.6499999,39.599998 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.049999 2.0499999,-2.049999 1.1321837,0 2.05,0.917816 2.05,2.049999 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector11pad"
+   class="pad-d3"
+   cx="3.5999999"
+   cy="32.400002"
+   r="2.05"
+   d="m 5.6499999,32.400002 c 0,1.132183 -0.9178163,2.049999 -2.05,2.049999 C 2.4678162,34.450001 1.55,33.532185 1.55,32.400002 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector12pad"
+   class="pad-d2"
+   cx="3.5999999"
+   cy="25.200001"
+   r="2.05"
+   d="m 5.6499999,25.200001 c 0,1.132183 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917817 -2.0499999,-2.05 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector13pad"
+   class="pad-d1"
+   cx="3.5999999"
+   cy="18"
+   r="2.05"
+   d="m 5.6499999,18 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,20.05 1.55,19.132184 1.55,18 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector14pad"
+   class="pad-rx"
+   cx="3.5999999"
+   cy="10.8"
+   r="2.05"
+   d="m 5.6499999,10.8 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,12.85 1.55,11.932184 1.55,10.8 c 0,-1.1321835 0.9178162,-2.0499998 2.0499999,-2.0499998 1.1321837,0 2.05,0.9178163 2.05,2.0499998 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+					<circle
+   id="connector15pad"
+   class="pad-tx"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="2.05"
+   d="m 5.6499999,3.5999999 c 0,1.1321837 -0.9178163,2.05 -2.05,2.05 C 2.4678162,5.6499999 1.55,4.7321836 1.55,3.5999999 1.55,2.4678162 2.4678162,1.55 3.5999999,1.55 c 1.1321837,0 2.05,0.9178162 2.05,2.0499999 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="2.05"
+   sodipodi:ry="2.05"
+   style="fill:none;stroke:#f7bd13;stroke-width:1.5" />
+				</g>
+			<g
+   class="pads-right"
+   transform="translate(64.892303,57.747377)"
+   id="g4095-8"><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="54"
+     sodipodi:cx="3.5999999"
+     id="connector8pad-7"
+     class="pad-5v"
+     cx="3.5999999"
+     cy="54"
+     r="2.05"
+     d="m 5.6499999,54 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,56.05 1.55,55.132184 1.55,54 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="46.799999"
+     sodipodi:cx="3.5999999"
+     id="connector9pad-5"
+     class="pad-g"
+     cx="3.5999999"
+     cy="46.799999"
+     r="2.05"
+     d="m 5.6499999,46.799999 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917817 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="39.599998"
+     sodipodi:cx="3.5999999"
+     id="connector10pad-7"
+     class="pad-d4"
+     cx="3.5999999"
+     cy="39.599998"
+     r="2.05"
+     d="m 5.6499999,39.599998 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.049999 2.0499999,-2.049999 1.1321837,0 2.05,0.917816 2.05,2.049999 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="32.400002"
+     sodipodi:cx="3.5999999"
+     id="connector11pad-4"
+     class="pad-d3"
+     cx="3.5999999"
+     cy="32.400002"
+     r="2.05"
+     d="m 5.6499999,32.400002 c 0,1.132183 -0.9178163,2.049999 -2.05,2.049999 C 2.4678162,34.450001 1.55,33.532185 1.55,32.400002 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="25.200001"
+     sodipodi:cx="3.5999999"
+     id="connector12pad-5"
+     class="pad-d2"
+     cx="3.5999999"
+     cy="25.200001"
+     r="2.05"
+     d="m 5.6499999,25.200001 c 0,1.132183 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917817 -2.0499999,-2.05 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="18"
+     sodipodi:cx="3.5999999"
+     id="connector13pad-7"
+     class="pad-d1"
+     cx="3.5999999"
+     cy="18"
+     r="2.05"
+     d="m 5.6499999,18 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,20.05 1.55,19.132184 1.55,18 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="10.8"
+     sodipodi:cx="3.5999999"
+     id="connector14pad-3"
+     class="pad-rx"
+     cx="3.5999999"
+     cy="10.8"
+     r="2.05"
+     d="m 5.6499999,10.8 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,12.85 1.55,11.932184 1.55,10.8 c 0,-1.1321835 0.9178162,-2.0499998 2.0499999,-2.0499998 1.1321837,0 2.05,0.9178163 2.05,2.0499998 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="3.5999999"
+     sodipodi:cx="3.5999999"
+     id="connector15pad-6"
+     class="pad-tx"
+     cx="3.5999999"
+     cy="3.5999999"
+     r="2.05"
+     d="m 5.6499999,3.5999999 c 0,1.1321837 -0.9178163,2.05 -2.05,2.05 C 2.4678162,5.6499999 1.55,4.7321836 1.55,3.5999999 1.55,2.4678162 2.4678162,1.55 3.5999999,1.55 c 1.1321837,0 2.05,0.9178162 2.05,2.0499999 z" /></g><g
+   class="pads-right"
+   transform="translate(0.00705706,57.870582)"
+   id="g4095-8-1"><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="54"
+     sodipodi:cx="3.5999999"
+     id="connector8pad-7-4"
+     class="pad-5v"
+     cx="3.5999999"
+     cy="54"
+     r="2.05"
+     d="m 5.6499999,54 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,56.05 1.55,55.132184 1.55,54 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="46.799999"
+     sodipodi:cx="3.5999999"
+     id="connector9pad-5-8"
+     class="pad-g"
+     cx="3.5999999"
+     cy="46.799999"
+     r="2.05"
+     d="m 5.6499999,46.799999 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917817 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="39.599998"
+     sodipodi:cx="3.5999999"
+     id="connector10pad-7-8"
+     class="pad-d4"
+     cx="3.5999999"
+     cy="39.599998"
+     r="2.05"
+     d="m 5.6499999,39.599998 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917816 -2.0499999,-2.05 0,-1.132183 0.9178162,-2.049999 2.0499999,-2.049999 1.1321837,0 2.05,0.917816 2.05,2.049999 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="32.400002"
+     sodipodi:cx="3.5999999"
+     id="connector11pad-4-1"
+     class="pad-d3"
+     cx="3.5999999"
+     cy="32.400002"
+     r="2.05"
+     d="m 5.6499999,32.400002 c 0,1.132183 -0.9178163,2.049999 -2.05,2.049999 C 2.4678162,34.450001 1.55,33.532185 1.55,32.400002 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="25.200001"
+     sodipodi:cx="3.5999999"
+     id="connector12pad-5-9"
+     class="pad-d2"
+     cx="3.5999999"
+     cy="25.200001"
+     r="2.05"
+     d="m 5.6499999,25.200001 c 0,1.132183 -0.9178163,2.05 -2.05,2.05 -1.1321837,0 -2.0499999,-0.917817 -2.0499999,-2.05 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="18"
+     sodipodi:cx="3.5999999"
+     id="connector13pad-7-6"
+     class="pad-d1"
+     cx="3.5999999"
+     cy="18"
+     r="2.05"
+     d="m 5.6499999,18 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,20.05 1.55,19.132184 1.55,18 c 0,-1.132184 0.9178162,-2.05 2.0499999,-2.05 1.1321837,0 2.05,0.917816 2.05,2.05 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="10.8"
+     sodipodi:cx="3.5999999"
+     id="connector14pad-3-7"
+     class="pad-rx"
+     cx="3.5999999"
+     cy="10.8"
+     r="2.05"
+     d="m 5.6499999,10.8 c 0,1.132184 -0.9178163,2.05 -2.05,2.05 C 2.4678162,12.85 1.55,11.932184 1.55,10.8 c 0,-1.1321835 0.9178162,-2.0499998 2.0499999,-2.0499998 1.1321837,0 2.05,0.9178163 2.05,2.0499998 z" /><circle
+     style="fill:none;stroke:#f7bd13;stroke-width:1.5"
+     sodipodi:ry="2.05"
+     sodipodi:rx="2.05"
+     sodipodi:cy="3.5999999"
+     sodipodi:cx="3.5999999"
+     id="connector15pad-6-0"
+     class="pad-tx"
+     cx="3.5999999"
+     cy="3.5999999"
+     r="2.05"
+     d="m 5.6499999,3.5999999 c 0,1.1321837 -0.9178163,2.05 -2.05,2.05 C 2.4678162,5.6499999 1.55,4.7321836 1.55,3.5999999 1.55,2.4678162 2.4678162,1.55 3.5999999,1.55 c 1.1321837,0 2.05,0.9178162 2.05,2.0499999 z" /></g></g>
+			<g
+   class="pads-proto"
+   id="g4105">
+				<g
+   class="pads-x1"
+   transform="translate(7.2,0.322)"
+   id="g4107">
+					<circle
+   id="connector16pad"
+   class="pad-x1-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector17pad"
+   class="pad-x1-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x2"
+   transform="translate(14.4,0.322)"
+   id="g4111">
+					<circle
+   id="connector18pad"
+   class="pad-x2-y1"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="1e-011"
+   d="m 3.5999999,3.5999999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector19pad"
+   class="pad-x2-y2"
+   cx="3.5999999"
+   cy="10.8"
+   r="1e-011"
+   d="m 3.5999999,10.8 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector20pad"
+   class="pad-x2-y3"
+   cx="3.5999999"
+   cy="18"
+   r="1e-011"
+   d="m 3.5999999,18 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector21pad"
+   class="pad-x2-y4"
+   cx="3.5999999"
+   cy="25.200001"
+   r="1e-011"
+   d="m 3.5999999,25.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector22pad"
+   class="pad-x2-y5"
+   cx="3.5999999"
+   cy="32.400002"
+   r="1e-011"
+   d="m 3.5999999,32.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector23pad"
+   class="pad-x2-y6"
+   cx="3.5999999"
+   cy="39.599998"
+   r="1e-011"
+   d="m 3.5999999,39.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector24pad"
+   class="pad-x2-y7"
+   cx="3.5999999"
+   cy="46.799999"
+   r="1e-011"
+   d="m 3.5999999,46.799999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector25pad"
+   class="pad-x2-y8"
+   cx="3.5999999"
+   cy="54"
+   r="1e-011"
+   d="m 3.5999999,54 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector26pad"
+   class="pad-x2-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector27pad"
+   class="pad-x2-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector28pad"
+   class="pad-x2-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x3"
+   transform="translate(21.6,0.322)"
+   id="g4124">
+					<circle
+   id="connector29pad"
+   class="pad-x3-y1"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="1e-011"
+   d="m 3.5999999,3.5999999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector30pad"
+   class="pad-x3-y2"
+   cx="3.5999999"
+   cy="10.8"
+   r="1e-011"
+   d="m 3.5999999,10.8 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector31pad"
+   class="pad-x3-y3"
+   cx="3.5999999"
+   cy="18"
+   r="1e-011"
+   d="m 3.5999999,18 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector32pad"
+   class="pad-x3-y4"
+   cx="3.5999999"
+   cy="25.200001"
+   r="1e-011"
+   d="m 3.5999999,25.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector33pad"
+   class="pad-x3-y5"
+   cx="3.5999999"
+   cy="32.400002"
+   r="1e-011"
+   d="m 3.5999999,32.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector34pad"
+   class="pad-x3-y6"
+   cx="3.5999999"
+   cy="39.599998"
+   r="1e-011"
+   d="m 3.5999999,39.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector35pad"
+   class="pad-x3-y7"
+   cx="3.5999999"
+   cy="46.799999"
+   r="1e-011"
+   d="m 3.5999999,46.799999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector36pad"
+   class="pad-x3-y8"
+   cx="3.5999999"
+   cy="54"
+   r="1e-011"
+   d="m 3.5999999,54 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector37pad"
+   class="pad-x3-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector38pad"
+   class="pad-x3-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector39pad"
+   class="pad-x3-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x4"
+   transform="translate(28.8,0.322)"
+   id="g4137">
+					<circle
+   id="connector40pad"
+   class="pad-x4-y1"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="1e-011"
+   d="m 3.5999999,3.5999999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector41pad"
+   class="pad-x4-y2"
+   cx="3.5999999"
+   cy="10.8"
+   r="1e-011"
+   d="m 3.5999999,10.8 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector42pad"
+   class="pad-x4-y3"
+   cx="3.5999999"
+   cy="18"
+   r="1e-011"
+   d="m 3.5999999,18 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector43pad"
+   class="pad-x4-y4"
+   cx="3.5999999"
+   cy="25.200001"
+   r="1e-011"
+   d="m 3.5999999,25.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector44pad"
+   class="pad-x4-y5"
+   cx="3.5999999"
+   cy="32.400002"
+   r="1e-011"
+   d="m 3.5999999,32.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector45pad"
+   class="pad-x4-y6"
+   cx="3.5999999"
+   cy="39.599998"
+   r="1e-011"
+   d="m 3.5999999,39.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector46pad"
+   class="pad-x4-y7"
+   cx="3.5999999"
+   cy="46.799999"
+   r="1e-011"
+   d="m 3.5999999,46.799999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector47pad"
+   class="pad-x4-y8"
+   cx="3.5999999"
+   cy="54"
+   r="1e-011"
+   d="m 3.5999999,54 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector48pad"
+   class="pad-x4-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector49pad"
+   class="pad-x4-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector50pad"
+   class="pad-x4-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x5"
+   transform="translate(36,0.322)"
+   id="g4150">
+					<circle
+   id="connector51pad"
+   class="pad-x5-y1"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="1e-011"
+   d="m 3.5999999,3.5999999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector52pad"
+   class="pad-x5-y2"
+   cx="3.5999999"
+   cy="10.8"
+   r="1e-011"
+   d="m 3.5999999,10.8 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector53pad"
+   class="pad-x5-y3"
+   cx="3.5999999"
+   cy="18"
+   r="1e-011"
+   d="m 3.5999999,18 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector54pad"
+   class="pad-x5-y4"
+   cx="3.5999999"
+   cy="25.200001"
+   r="1e-011"
+   d="m 3.5999999,25.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector55pad"
+   class="pad-x5-y5"
+   cx="3.5999999"
+   cy="32.400002"
+   r="1e-011"
+   d="m 3.5999999,32.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector56pad"
+   class="pad-x5-y6"
+   cx="3.5999999"
+   cy="39.599998"
+   r="1e-011"
+   d="m 3.5999999,39.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector57pad"
+   class="pad-x5-y7"
+   cx="3.5999999"
+   cy="46.799999"
+   r="1e-011"
+   d="m 3.5999999,46.799999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector58pad"
+   class="pad-x5-y8"
+   cx="3.5999999"
+   cy="54"
+   r="1e-011"
+   d="m 3.5999999,54 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector59pad"
+   class="pad-x5-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector60pad"
+   class="pad-x5-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector61pad"
+   class="pad-x5-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x6"
+   transform="translate(43.2,0.322)"
+   id="g4163">
+					<circle
+   id="connector62pad"
+   class="pad-x6-y1"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="1e-011"
+   d="m 3.5999999,3.5999999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector63pad"
+   class="pad-x6-y2"
+   cx="3.5999999"
+   cy="10.8"
+   r="1e-011"
+   d="m 3.5999999,10.8 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector64pad"
+   class="pad-x6-y3"
+   cx="3.5999999"
+   cy="18"
+   r="1e-011"
+   d="m 3.5999999,18 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector65pad"
+   class="pad-x6-y4"
+   cx="3.5999999"
+   cy="25.200001"
+   r="1e-011"
+   d="m 3.5999999,25.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector66pad"
+   class="pad-x6-y5"
+   cx="3.5999999"
+   cy="32.400002"
+   r="1e-011"
+   d="m 3.5999999,32.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector67pad"
+   class="pad-x6-y6"
+   cx="3.5999999"
+   cy="39.599998"
+   r="1e-011"
+   d="m 3.5999999,39.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector68pad"
+   class="pad-x6-y7"
+   cx="3.5999999"
+   cy="46.799999"
+   r="1e-011"
+   d="m 3.5999999,46.799999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector69pad"
+   class="pad-x6-y8"
+   cx="3.5999999"
+   cy="54"
+   r="1e-011"
+   d="m 3.5999999,54 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector70pad"
+   class="pad-x6-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector71pad"
+   class="pad-x6-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector72pad"
+   class="pad-x6-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x7"
+   transform="translate(50.4,0.322)"
+   id="g4176">
+					<circle
+   id="connector73pad"
+   class="pad-x7-y1"
+   cx="3.5999999"
+   cy="3.5999999"
+   r="1e-011"
+   d="m 3.5999999,3.5999999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="3.5999999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector74pad"
+   class="pad-x7-y2"
+   cx="3.5999999"
+   cy="10.8"
+   r="1e-011"
+   d="m 3.5999999,10.8 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="10.8"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector75pad"
+   class="pad-x7-y3"
+   cx="3.5999999"
+   cy="18"
+   r="1e-011"
+   d="m 3.5999999,18 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="18"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector76pad"
+   class="pad-x7-y4"
+   cx="3.5999999"
+   cy="25.200001"
+   r="1e-011"
+   d="m 3.5999999,25.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="25.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector77pad"
+   class="pad-x7-y5"
+   cx="3.5999999"
+   cy="32.400002"
+   r="1e-011"
+   d="m 3.5999999,32.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="32.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector78pad"
+   class="pad-x7-y6"
+   cx="3.5999999"
+   cy="39.599998"
+   r="1e-011"
+   d="m 3.5999999,39.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="39.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector79pad"
+   class="pad-x7-y7"
+   cx="3.5999999"
+   cy="46.799999"
+   r="1e-011"
+   d="m 3.5999999,46.799999 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="46.799999"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector80pad"
+   class="pad-x7-y8"
+   cx="3.5999999"
+   cy="54"
+   r="1e-011"
+   d="m 3.5999999,54 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="54"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector81pad"
+   class="pad-x7-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector82pad"
+   class="pad-x7-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector83pad"
+   class="pad-x7-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x8"
+   transform="translate(57.6,0.322)"
+   id="g4189">
+					<circle
+   id="connector84pad"
+   class="pad-x8-y9"
+   cx="3.5999999"
+   cy="61.200001"
+   r="1e-011"
+   d="m 3.5999999,61.200001 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="61.200001"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector85pad"
+   class="pad-x8-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector86pad"
+   class="pad-x8-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+				<g
+   class="pads-x9"
+   transform="translate(64.8,0.322)"
+   id="g4194">
+					<circle
+   id="connector87pad"
+   class="pad-x9-y10"
+   cx="3.5999999"
+   cy="68.400002"
+   r="1e-011"
+   d="m 3.5999999,68.400002 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="68.400002"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+					<circle
+   id="connector88pad"
+   class="pad-x9-y11"
+   cx="3.5999999"
+   cy="75.599998"
+   r="1e-011"
+   d="m 3.5999999,75.599998 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+   sodipodi:cx="3.5999999"
+   sodipodi:cy="75.599998"
+   sodipodi:rx="1e-011"
+   sodipodi:ry="1e-011"
+   style="fill:none;stroke:#9a916c;stroke-width:0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<style
+   type="text/css"
+   id="style9876">
+	.st0{fill:#393D91;}
+	.st1{fill:#293385;}
+	.st2{fill:#2A3282;}
+	.st3{fill:#0F100F;}
+	.st4{fill:#FCBE0E;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#363430;}
+	.st7{fill:#E2DCD0;}
+	.st8{fill:#DEC47D;}
+	.st9{fill:#F7EE80;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#0458A3;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st12{fill:none;}
+	.st13{fill:#020203;}
+	.st14{fill:#B0AD83;}
+	.st15{fill:#E3DDD0;}
+	.st16{fill:#DFAD27;}
+	.st17{fill:#CEC9BC;}
+	.st18{fill:#BCB825;}
+	.st19{fill:#C08F3D;}
+	.st20{fill:#E62C27;}
+	.st21{fill:#4E5FA9;}
+	.st22{fill:#D4BA77;}
+	.st23{fill:#CFCABD;}
+	.st24{fill:#ACA8B6;}
+	.st25{fill:#A4A096;}
+	.st26{fill:#C5C1B5;}
+	.st27{fill:#C9C4B7;}
+	.st28{fill:#171817;}
+	.st29{font-family:'OCRA';}
+	.st30{font-size:3px;}
+	.st31{font-size:4.9018px;}
+</style><style
+   type="text/css"
+   id="style21376">
+	.st0{fill:#393D91;}
+	.st1{fill:#293385;}
+	.st2{fill:#2A3282;}
+	.st3{fill:#0F100F;}
+	.st4{fill:#FCBE0E;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#363430;}
+	.st7{fill:#E2DCD0;}
+	.st8{fill:#DEC47D;}
+	.st9{fill:#F7EE80;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#0458A3;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st12{fill:none;}
+	.st13{fill:#020203;}
+	.st14{fill:#B0AD83;}
+	.st15{fill:#E3DDD0;}
+	.st16{fill:#DFAD27;}
+	.st17{fill:#CEC9BC;}
+	.st18{fill:#BCB825;}
+	.st19{fill:#C08F3D;}
+	.st20{fill:#E62C27;}
+	.st21{fill:#4E5FA9;}
+	.st22{fill:#D4BA77;}
+	.st23{fill:#CFCABD;}
+	.st24{fill:#ACA8B6;}
+	.st25{fill:#A4A096;}
+	.st26{fill:#C5C1B5;}
+	.st27{fill:#C9C4B7;}
+	.st28{fill:#171817;}
+	.st29{font-family:'OCRA';}
+	.st30{font-size:3px;}
+	.st31{font-size:4.9018px;}
+</style><style
+   type="text/css"
+   id="style27692">
+	.st0{fill:#393D91;}
+	.st1{fill:#293385;}
+	.st2{fill:#2A3282;}
+	.st3{fill:#0F100F;}
+	.st4{fill:#FCBE0E;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#363430;}
+	.st7{fill:#E2DCD0;}
+	.st8{fill:#DEC47D;}
+	.st9{fill:#F7EE80;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#0458A3;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st12{fill:none;}
+	.st13{fill:#020203;}
+	.st14{fill:#B0AD83;}
+	.st15{fill:#E3DDD0;}
+	.st16{fill:#DFAD27;}
+	.st17{fill:#CEC9BC;}
+	.st18{fill:#BCB825;}
+	.st19{fill:#C08F3D;}
+	.st20{fill:#E62C27;}
+	.st21{fill:#4E5FA9;}
+	.st22{fill:#D4BA77;}
+	.st23{fill:#CFCABD;}
+	.st24{fill:#ACA8B6;}
+	.st25{fill:#A4A096;}
+	.st26{fill:#C5C1B5;}
+	.st27{fill:#C9C4B7;}
+	.st28{fill:#171817;}
+	.st29{font-family:'OCRA';}
+	.st30{font-size:3px;}
+	.st31{font-size:4.9018px;}
+</style></svg>
